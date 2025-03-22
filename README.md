@@ -42,19 +42,19 @@ To run this project, you need a C++ compiler.
    g++ Sudoku.cpp -o sudoku
 4. Run the game:
    ```bash
-./sudoku
-How to Play
+   ./sudoku
+## **How to Play**
 	1.	When the game starts, you will be prompted to enter your username.
 	2.	After logging in, choose the difficulty level and start solving the Sudoku puzzle.
 	3.	You can save your game and resume it later, or check the leaderboard to see the top players.
 
-Leaderboard
+## **Leaderboard**
 
 The leaderboard ranks players based on their score and time. Higher scores and faster times result in higher rankings.
 
-Saving Your Game
+## **Saving Your Game**
 	•	To save your game, press S during gameplay. You will be prompted to enter a name for your saved game. You can load this save later from the main menu.
 
-Contributing
+## **Contributing**
 
 Feel free to fork the project and submit pull requests for any improvements or bug fixes. To contribute, please make sure your changes are well-tested and documented.
